@@ -1,2 +1,2 @@
 FROM nginx
-COPY . /usr/share/nginx/html/toeyy
+COPY . /usr/share/nginx/html/toeyyc
