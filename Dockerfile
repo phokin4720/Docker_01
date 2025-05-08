@@ -1,2 +1,2 @@
 FROM nginx
-COPY . /usr/share/nginx/html/toey
+COPY . /usr/share/nginx/html/toeyygi
